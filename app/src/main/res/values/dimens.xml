@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="quote_image_size">16dp</dimen>
+
+    <dimen name="margin_s">8dp</dimen>
+    <dimen name="margin_xs">2dp</dimen>
+
+    <dimen name="corner_radius">4dp</dimen>
+
+    <dimen name="text_size_headline">16sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+</resources>
